@@ -1,4 +1,4 @@
-# Politique-confidentialite
+# Politique de confidentialité
 > **Certif'IFT : politique de confidentialité**
 > Certif'IFT fonctionne sur votre ordinateur. Le fichier Céré d'oc que vous chargez est lu localement.
 > Quand vous cliquez sur « Obtenir le PDF et vérifier le bilan », l'extension envoie les noms de vos parcelles, leurs surfaces et vos traitements à l'API IFT du ministère de l'Agriculture (ecoagri.api.agriculture.gouv.fr). Le ministère les enregistre afin de permettre la vérification du bilan en ligne ; il en est responsable selon sa propre politique.
